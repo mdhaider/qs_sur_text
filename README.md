@@ -1,0 +1,1 @@
+# qs_sur_text
